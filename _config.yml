@@ -1,6 +1,14 @@
-title: Minimal theme
+title: <p align="center"> Piyush Kadve </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+  I'm pursuing a course from Upgrad regarding Machine Learning and Artificial Intelligence.
+  Also currently working on Market reasearch domain as a Survey Programmer for past 4 years.
+  <br>
+  </p>
