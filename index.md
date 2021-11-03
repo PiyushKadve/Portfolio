@@ -1,4 +1,4 @@
-# ML & AI Portfolio
+# Dummy Portfolio
 ---
 ## Machine learning
 
